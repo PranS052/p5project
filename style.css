@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+happy {
+  background: yellow;
+  color: black;
+}
+sad {
+  background: black;
+  color: white;
+}
+canvas {
+  display: block;
+  background: pink;
+}
